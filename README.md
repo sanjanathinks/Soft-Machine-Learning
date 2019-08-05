@@ -1,5 +1,5 @@
 ## List of ML Programs:
-1. One Shot Learning with House Prices (CS211, Computer Architecture)
+1. ** One Shot Learning with House Prices (CS211, Computer Architecture) **
 - Languages used: C
 - Algorithms used: Gauss Jordan Elimination (Method of solving a linear system of equations done by taking the augmented matrix = 
 matrix merged with an identity matrix, or one only composed of 1's and 0's,and turning it into reduced row echelon form through row 
